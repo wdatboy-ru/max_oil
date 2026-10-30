@@ -1,0 +1,298 @@
+## 001 20070216-5-01-Pub_Public_Winningsplan_F2A_Hanze.pdf 
+- T9 p18: Давление насыщения (Bubble Point Pressure) — 109 bar — нефть месторождения Hanze [стр. 18, блок Field Key Parameter; стр. 19, блок Field Key Parameter].
+- T9 p18: Плотность нефти (Oil Gravity) — 36° API — нефть месторождения Hanze [стр. 18, блок Field Key Parameter; стр. 19, блок Field Key Parameter].
+- T10 p18: Оценка начальных геологических запасов нефти (Estimated STOOIP) — 155 MMBBL (или 156 MMBBL из-за низкого разрешения шрифта) — месторождение Hanze [стр. 18, блок Field Key Parameter].
+- T10 p19: Оценка начальных геологических запасов нефти (Estimated STOOIP) — 156 MMBBL — месторождение Hanze [стр. 19, блок Field Key Parameter].
+- T10 p18: Ожидаемые извлекаемые запасы (Reserves Expectation) — 5.9 MM Sm³ — месторождение Hanze [стр. 18, блок Field History].
+## 002 F02-03/!!! NLOG_GS_PUB_27031902_F02-03.PDF 
+- T9 p18: Плотность нефти в градусах API при DST No. 1 (01.08.1982, Clean up flow) — 39 API — скв. F/2-3, Chalk (Ekofisk и Tor Formations), перфорация 1503.4–1513.4 m и 1516.4–1534.4 m [стр. 18].
+- T9 p18: Плотность нефти в градусах API при DST No. 1 (01–02.08.1982, Post acid flow и Flow for P.L.T. Survey) — 38 API — скв. F/2-3, Chalk (Ekofisk и Tor Formations), перфорация 1503.4–1513.4 m и 1516.4–1534.4 m [стр. 18].
+- T9 p21: Характеристика нефти при DST No. 2A (14.08.1982) — имела вид нефти низкой плотности API (low API appearance) вследствие образования стойкой эмульсии с кислотой и пластовой водой — скв. F/2-3, миоцен (Breda Formation), перфорация 1185–1222 m и 1232–1247 m [стр. 21, 22].
+- T9 p18: Относительная плотность (S.G.) пластовой воды при DST No. 1 (01–02.08.1982) — 1.125 (04:45 01.08.82), 1.12 (08:00 01.08.82), 1.13 (после кислотной обработки 01–02.08.82) — скв. F/2-3, Chalk (Ekofisk и Tor Formations), перфорация 1503.4–1513.4 m и 1516.4–1534.4 m [стр. 18].
+- T9 p53: Свойства пластовой воды при DST No. 2A (15.08.1982) — относительная плотность (s.g.) 1.13, pH 5, хлориды 104,000 ppm — скв. F/2-3, миоцен (Breda Formation), перфорация 1185–1222 m и 1232–1247 m [стр. 53].
+- T9 p12: Состав газа по газовому каротажу при бурении в Upper Pliocene Sand (761.5–776.5 m) — только метан (methane only): фон выше интервала в среднем 12,000 ppm methane, пик на глубине 763.0 m — 56,600 ppm methane, ниже интервала — около 1000 ppm methane — скв. F/2-3, пласт Oosterhout Formation [стр. 12].
+- T9 p12: На глубине 1195 m (максимум в верхнем миоцене): 1192 ppm C1, 592 ppm C2, 495 ppm C3 — скв. F/2-3, Breda Formation [стр. 12, 13].
+- T9 p13: На глубине 1250 m (максимум в нижнем/среднем миоцене): 9450 ppm C1 (methane), 2340 ppm C2 (ethane), 1760 ppm C3 (propane), 560 ppm iC4 (iso-butane), 1035 ppm nC4 (normal-butane) — скв. F/2-3, Breda Formation [стр. 13].
+- T9 p13: На глубине 1530 m (максимум в маастрихтском мелу): 109,767 ppm C1 (methane), 37,740 ppm C2 (ethane), 25,300 ppm C3 (propane), 6,600 ppm iC4 (iso-butane), 9,330 ppm nC4 (normal butane) — скв. F/2-3, пласт Tor Formation [стр. 13].
+## 004 F02-03/NLOG_GS_PUB_27031906_F02-03.PDF 
+- T9 p3: Расчётная плотность углеводородов (параметр RHOHY в таблице COMPUTATION PARAMETERS): .8000 (г/см³) в интервалах 1594.9–1503.1 м, 1503.0–1256.1 м, 1255.9–1100.0 м; .2000 (г/см³) в интервалах 1099.8–965.15 м и 965.00–700.13 м — скважина F2-3 [стр. 3].
+## 006 F02-03/NLOG_GS_PUB_Crude Oil Analysis_F02-03.pdf 
+- T9 p4: Плотность всей пробы нефти в градусах API (API of Whole Crude) — 35.1° — скважина F/2-3, проба Annulus (шапка DST#1) [стр. 4].
+- T9 p4: Плотность фракции Heptanes plus (C7+ DENSITY) — 0.8537 (единицы не указаны) — скважина F/2-3, проба Annulus (шапка DST#1) [стр. 4].
+- T9 p4: Плотность фракции Heptanes plus в градусах API (C7+ API) — 34.1 — скважина F/2-3, проба Annulus (шапка DST#1) [стр. 4].
+- T9 p4: Молекулярная масса фракции Heptanes plus (C7+ MOL WEIGHT) — 249 — скважина F/2-3, проба Annulus (шапка DST#1) [стр. 4].
+- T9 p4: Methane: 0.01 % / TRACE [стр. 4].
+- T9 p5: Плотность всей пробы нефти в градусах API (API of Whole Crude) — 34.7° — скважина F/2-3, проба DST1 (шапка Annulus) [стр. 5].
+- T9 p5: Плотность фракции Heptanes plus (C7+ DENSITY) — 0.8537 (единицы не указаны) — скважина F/2-3, проба DST1 (шапка Annulus) [стр. 5].
+- T9 p5: Плотность фракции Heptanes plus в градусах API (C7+ API) — 34.1 — скважина F/2-3, проба DST1 (шапка Annulus) [стр. 5].
+- T9 p5: Молекулярная масса фракции Heptanes plus (C7+ MOL WEIGHT) — 249 — скважина F/2-3, проба DST1 (шапка Annulus) [стр. 5].
+- T9 p5: Methane: NIL / NIL [стр. 5].
+## 008 F02-03/NLOG_GS_PUB_Engineering Test Report_F02-03.pdf 
+- T9 p1: Относительная плотность газа (gas gravity) — 0.812 — скважина F/2-3, испытание интервалов 1503.4–1513.4m и 1516.4–1534.4m [стр. 1].
+- T9 p1: Плотность нефти (oil gravity) — 39deg api at 60/60 — скважина F/2-3, испытание интервалов 1503.4–1513.4m и 1516.4–1534.4m [стр. 1].
+## 012 F02-03/NLOG_GS_PUB_IG7031006_F02-03.PDF 
+- T9 p1: Плотность нефти в DST 1 — 39 deg. API — скважина F/2-3 (F02-03), зона Chalk (1503.4-1513.4 и 1516.4-1534.4 mtrs) — [стр. 1, разд. II].
+- T9 p1: Относительная плотность газа (Gas gravity) в DST 1 — 0.812 — скважина F/2-3 (F02-03), зона Chalk (1503.4-1513.4 и 1516.4-1534.4 mtrs) — [стр. 1, разд. II].
+- T9 p1: Относительная плотность воды (water gravity) в DST 1 — 1.12 — скважина F/2-3 (F02-03), зона Chalk (1503.4-1513.4 и 1516.4-1534.4 mtrs) — [стр. 1, разд. II].
+- T9 p3: Относительная плотность газа (Gas gravity) в DST-2A — 0.89 — скважина F/2-3 (F02-03), интервалы 1185-1222 и 1232-1247 mtrs — [стр. 3, разд. IV].
+- T9 p3: Свойства пластовой воды после отработки кислоты в DST-2A — specific gravity: 1.13, pH: 5 (изменился с 1 до 5 после отбора 116.5 bbls), "salinity": 105,000 ppm; также в отработанной кислоте отмечены следы нефти и CO2 — скважина F/2-3 (F02-03), интервалы 1185-1222 и 1232-1247 mtrs — [стр. 3, разд. IV].
+## 013 F02-03/NLOG_GS_PUB_Test Report_F02-03.pdf 
+- T9 p2: Относительная плотность и компонентный состав газа на устье (12.08.1982, 17:15) — s.g. = 0.89; c1 = 48pct, c2 = 37pct, c3 = 10pct, c4 = 5pct — скважина F/2-3 (F02-03), DST No. 2A (интервалы 1185-1222m и 1232-1247m) — [стр. 2, разд. 1715].
+- T9 p3: Содержание CO2 в газе после кислотной обработки (13.08.1982, 02:00–06:00) — greater than 10 pct — скважина F/2-3 (F02-03), DST No. 2A — [стр. 3, разд. 0200-0600, note].
+- T9 p7: Плотность флюида в стволе по градиентомеру (gradiomanometer density) — 1.13 g/cc в интервале 1180–1380 mtrs до закачки; 1.17 (g/cc) ниже 1216 m при первом проходе закачки — скважина F/2-3 (F02-03), DST No. 2A — [стр. 7, разд. shut in survey, pass 1].
+## 014 F02-03/NLOG_GS_PUB_Well Completion Report_F02-03.pdf 
+- T9 p5: Плиоцен (735m и 765m–780m): газовые пики 115 units на 735m–740m и 225 units на 770m (765m–780m), газ представлен исключительно метаном (all of which was methane); до 885m фон 20–60 units, далее 5–15 units — скважина F/2-3 (F02-03), пласт Pliocene Oosterhout — [стр. 5, 8].
+- T9 p6: Олигоцен, Rupel (1177m–1260m): рост газа с 5 до 30–70 units (среднее 15–90 units), пики 50 units на 1185m, 75 units на 1195m и 160 units перед 1260m; состав газа: метан, этан, пропан и бутан (methane, ethane, propane, and butane) — скважина F/2-3 (F02-03), пласт Rupel — [стр. 6, 8].
+- T9 p6: Олигоцен–эоцен (1267m–1480m): метан и тяжёлые УВ-газы; в интервале 1267m–1325m фоновый газ 100–600 units, газ наращивания 70–200 units, газ СПО ~250 units; в интервале 1325m–1480m фоновый газ 20–75 units, газ наращивания 50–330 units — скважина F/2-3 (F02-03) — [стр. 6, 9].
+## 015 F02-03/NLOG_GS_PUB_Well Test Program_F02-03.pdf 
+- T9 p2: Определение давления насыщения (bubblepoint pressure) и отбор проб — предписано использовать корреляции для оценки давления насыщения (Use correlations to determine bubblepoint pressure) и отобрать сдвоенную глубинную пробу (tandem bottom-hole sample) — скважина F/2-3 (F02-03) — [стр. 2, п. 16, 19].
+## 016 F02-03/NLOG_GS_PUB_Well Test Report_ F02-03.pdf 
+- T9 p1: Относительная плотность газа (`gasgrav.`) — `.812` — скважина F/2-3 (F02-03), испытание перфорированных интервалов `1503.4 - 1513.4m` и `1516.4 - 1534.4m` (зона в документе не названа) [стр. 1, примеч. 5].
+- T9 p1: Плотность нефти в градусах API (`oil grav.`) — `39deg api at 60deg f` — скважина F/2-3 (F02-03), испытание перфорированных интервалов `1503.4 - 1513.4m` и `1516.4 - 1534.4m` (зона в документе не названа) [стр. 1, примеч. 6].
+- T9 p1: Относительная плотность пластовой воды (`watergrav.`) — `1.12` — скважина F/2-3 (F02-03), испытание перфорированных интервалов `1503.4 - 1513.4m` и `1516.4 - 1534.4m` (зона в документе не названа) [стр. 1, примеч. 7].
+## 017 F02-05/!!! NLOG_GS_PUB_F02-05 Lab progress report I (1996-07).pdf 
+- T9 p12: **Methane (метан)** — `79.743 Vol-%` — скважина F2-5, Zechstein, Caprock, `1584.00-1633.00 m`, DST # 1, Sample 21 [стр. 12].
+- T9 p12: **CO2 (углекислый газ)** — `0.0258 Vol-%` — скважина F2-5, Zechstein, Caprock, `1584.00-1633.00 m`, DST # 1, Sample 21 [стр. 12].
+- T9 p12: **Плотность газа (`Spec. gravity`)** — `0.927078 kg/Nm³` (проба без воздуха, по DIN 1871 и DIN 51850) — скважина F2-5, Zechstein, Caprock, `1584.00-1633.00 m`, DST # 1, Sample 21 [стр. 12].
+- T9 p12: **Относительная плотность газа по воздуху (`Rel. spec. gravity [air=1]`)** — `0.716998` — скважина F2-5, Zechstein, Caprock, `1584.00-1633.00 m`, DST # 1, Sample 21 [стр. 12].
+- T9 p12: **Высшая теплота сгорания газа (`Gross calorific value`)** — `13.254796 KWh/Nm³` — скважина F2-5, Zechstein, Caprock, `1584.00-1633.00 m`, DST # 1, Sample 21 [стр. 12].
+- T9 p12: **Низшая теплота сгорания газа (`Net calorific value`)** — `12.022747 KWh/Nm³` — скважина F2-5, Zechstein, Caprock, `1584.00-1633.00 m`, DST # 1, Sample 21 [стр. 12].
+## 020 F02-05/NLOG_GS_PUB_19980617-2-05_F0504_goed_20080602160040.pdf 
+- T9 p4: Плотность нефти при 15 °C (Dichte [15°C]) — 840,7 kg/m³ — скважина F 2-5, пласт Chalk — [стр. 4, Anlage 2].
+- T9 p4: Плотность нефти в градусах API (° API) — 36,8 °API — скважина F 2-5, пласт Chalk — [стр. 4, Anlage 2].
+- T9 p1: Вязкость дегазированной нефти (Totölviskosität) в области пластовой температуры — примерно в 10 раз ниже, чем у нефти скважины F 5-4 (для F 5-4 указано около 20 mPa s) — скважина F 2-5, пласт Chalk — [стр. 1].
+- T9 p4: Вязкость нефти при 20 °C (Viskosität 20°C) — 4,9 mPas — скважина F 2-5, пласт Chalk — [стр. 4, Anlage 2].
+- T9 p4: Вязкость нефти при 30 °C (Viskosität 30°C) — 3,8 mPas — скважина F 2-5, пласт Chalk — [стр. 4, Anlage 2].
+- T9 p4: Вязкость нефти при 40 °C (Viskosität 40°C) — 3,0 mPas — скважина F 2-5, пласт Chalk — [стр. 4, Anlage 2].
+- T9 p4: Вязкость нефти при 50 °C (Viskosität 50°C) — 2,5 mPas — скважина F 2-5, пласт Chalk — [стр. 4, Anlage 2].
+- T9 p4: Вязкость нефти при 60 °C (Viskosität 60°C) — 2,1 mPas — скважина F 2-5, пласт Chalk — [стр. 4, Anlage 2].
+- T9 p4: Вязкость нефти при 70 °C (Viskosität 70°C) — 1,8 mPa s — скважина F 2-5, пласт Chalk — [стр. 4, Anlage 2].
+- T9 p4: Плотность нефти при 15 °C (Dichte [15°C]) — 830,7 kg/m³ — скважина F 2-6, пласт Chalk — [стр. 4, Anlage 2].
+- T9 p4: Плотность нефти в градусах API (° API) — 38,8 °API — скважина F 2-6, пласт Chalk — [стр. 4, Anlage 2].
+- T9 p4: Вязкость нефти при 20 °C (Viskosität 20°C) — 5,9 mPas — скважина F 2-6, пласт Chalk — [стр. 4, Anlage 2].
+- T9 p4: Вязкость нефти при 30 °C (Viskosität 30°C) — 5,1 mPas — скважина F 2-6, пласт Chalk — [стр. 4, Anlage 2].
+- T9 p4: Вязкость нефти при 40 °C (Viskosität 40°C) — 4,4 mPas — скважина F 2-6, пласт Chalk — [стр. 4, Anlage 2].
+- T9 p4: Вязкость нефти при 50 °C (Viskosität 50°C) — 3,9 mPas — скважина F 2-6, пласт Chalk — [стр. 4, Anlage 2].
+- T9 p4: Вязкость нефти при 60 °C (Viskosität 60°C) — 3,1 mPas — скважина F 2-6, пласт Chalk — [стр. 4, Anlage 2].
+- T9 p4: Вязкость нефти при 70 °C (Viskosität 70°C) — 2,5 mPa s — скважина F 2-6, пласт Chalk — [стр. 4, Anlage 2].
+- T9 p1: Плотность нефти при 15 °C (Dichte bei 15 °C / D 15 °C) — 930,0 kg/m³ — скважина F 5-4, пласт Chalk, интервал 1331–1360 m, обезвоженная проба — [стр. 1, 3, Anlage 1; стр. 4, Anlage 2].
+- T9 p1: Плотность нефти в градусах API (°API) — 20,7 °API (тяжёлая нефть / Schweröl) — скважина F 5-4, пласт Chalk, интервал 1331–1360 m, обезвоженная проба — [стр. 1, 3, Anlage 1; стр. 4, Anlage 2].
+- T9 p1: Вязкость дегазированной нефти (Totölviskosität) в области пластовой температуры — annähernd 20 mPa s — скважина F 5-4, пласт Chalk — [стр. 1].
+- T9 p3: Вязкость нефти при 20 °C (V 20 / Viskosität 20°C) — 192 mPa s (стр. 3) / 192 mPas (стр. 4) — скважина F 5-4, пласт Chalk, интервал 1331–1360 m, обезвоженная проба — [стр. 3, Anlage 1; стр. 4, Anlage 2].
+- T9 p3: Вязкость нефти при 30 °C (V 30 / Viskosität 30°C) — 104 mPa s (стр. 3) / 104 mPas (стр. 4) — скважина F 5-4, пласт Chalk, интервал 1331–1360 m, обезвоженная проба — [стр. 3, Anlage 1; стр. 4, Anlage 2].
+- T9 p3: Вязкость нефти при 40 °C (V 40 / Viskosität 40°C) — 64 mPa s (стр. 3) / 64 mPas (стр. 4) — скважина F 5-4, пласт Chalk, интервал 1331–1360 m, обезвоженная проба — [стр. 3, Anlage 1; стр. 4, Anlage 2].
+- T9 p3: Вязкость нефти при 50 °C (V 50 / Viskosität 50°C) — 40 mPa s (стр. 3) / 40 mPas (стр. 4) — скважина F 5-4, пласт Chalk, интервал 1331–1360 m, обезвоженная проба — [стр. 3, Anlage 1; стр. 4, Anlage 2].
+- T9 p3: Вязкость нефти при 60 °C (V 60 / Viskosität 60°C) — 27 mPa s (стр. 3) / 27 mPas (стр. 4) — скважина F 5-4, пласт Chalk, интервал 1331–1360 m, обезвоженная проба — [стр. 3, Anlage 1; стр. 4, Anlage 2].
+- T9 p3: Вязкость нефти при 70 °C (V 70 / Viskosität 70°C) — 18 mPa s — скважина F 5-4, пласт Chalk, интервал 1331–1360 m, обезвоженная проба — [стр. 3, Anlage 1; стр. 4, Anlage 2].
+## 021 F02-06/NLOG_GS_PUB_19970818-1-03_F02-06.PDF 
+- T9 p1: Плотность исходной пробы при 15 °C (spec. gravity (15 °C), Original sample) | 833.5 kg/m³ | Скважина F2-6 (F02-06), пласт Chalk, DST #1 (Separator), проба Sa. 31 | [стр. 1]
+- T9 p1: Плотность обезвоженной пробы при 15 °C (spec. gravity 15 °C, waterfree sample) | 830.7 kg/m³ | Скважина F2-6 (F02-06), пласт Chalk, DST #1 (Separator), проба Sa. 31 | [стр. 1]
+- T9 p1: Плотность в градусах API (°API, waterfree sample) | 38.8 °API | Скважина F2-6 (F02-06), пласт Chalk, DST #1 (Separator), проба Sa. 31 | [стр. 1]
+- T9 p1: Вязкость при 5 °C (V 5, waterfree sample) | 5.90 mPa s | Скважина F2-6 (F02-06), пласт Chalk, DST #1 (Separator), проба Sa. 31 | [стр. 1]
+- T9 p1: Вязкость при 10 °C (V 10, waterfree sample) | 5.08 mPa s | Скважина F2-6 (F02-06), пласт Chalk, DST #1 (Separator), проба Sa. 31 | [стр. 1]
+- T9 p1: Вязкость при 15 °C (V 15, waterfree sample) | 4.42 mPa s | Скважина F2-6 (F02-06), пласт Chalk, DST #1 (Separator), проба Sa. 31 | [стр. 1]
+- T9 p1: Вязкость при 20 °C (V 20, waterfree sample) | 3.89 mPa s | Скважина F2-6 (F02-06), пласт Chalk, DST #1 (Separator), проба Sa. 31 | [стр. 1]
+- T9 p1: Вязкость при 30 °C (V 30, waterfree sample) | 3.07 mPa s | Скважина F2-6 (F02-06), пласт Chalk, DST #1 (Separator), проба Sa. 31 | [стр. 1]
+- T9 p1: Вязкость при 40 °C (V 40, waterfree sample) | 2.49 mPa s | Скважина F2-6 (F02-06), пласт Chalk, DST #1 (Separator), проба Sa. 31 | [стр. 1]
+## 023 F02-06/NLOG_GS_PUB_19980617-1-10_F0206_Goed-20080509-142525.PDF 
+- T9 p106: Плотность нефти в градусах API ($\gamma_o$, API oil gravity) — 37 °API — скважина F/2-06 (по данным F2-5 с поправкой на давление перфорации), формация Ommelanden Chalk — [стр. 106, табл.].
+- T9 p102: Объёмный коэффициент нефти ($B_o$, oil formation volume factor) — 1.35 [-] — скважина F/2-06 (по корреляции при 78 °C и 221.4 bar на основе свойств нефти F2-5), формация Ommelanden Chalk — [стр. 102, 105, 106, табл.].
+- T9 p102: Вязкость нефти в пластовых условиях ($\mu_o$, oil viscosity) — 0.69 mPas — скважина F/2-06 (по корреляции при 78 °C и 221.4 bar на основе свойств нефти F2-5), формация Ommelanden Chalk — [стр. 102, 105, 106, табл.].
+- T9 p106: Сжимаемость нефти ($c_o$, oil compressibility) — 3.6E-4 [m³/bar] (размерность в таблице указана как [m³/bar], соответствует 1/bar) — скважина F/2-06 (по данным F2-5), формация Ommelanden Chalk — [стр. 106, табл.].
+- T9 p106: Сжимаемость воды ($c_w$, water compressibility) — 5.3E-4 [m³/bar] (1/bar) — скважина F/2-06, формация Ommelanden Chalk — [стр. 106, табл.].
+- T9 p106: Сжимаемость породы ($c_r$, rock compressibility) — 4.7E-5 [m³/bar] (1/bar) — скважина F/2-06, формация Ommelanden Chalk — [стр. 106, табл.].
+- T9 p106: Полная сжимаемость системы ($c_t$, total compressibility) — 3.8E-4 [m³/bar] (1/bar) — скважина F/2-06, формация Ommelanden Chalk — [стр. 106, табл.].
+- T9 p106: Газовый фактор (GOR), принятый при анализе ГДИ (по данным скважины F2-5) — 96.4 m³/m³ — скважины F/2-05, F/2-06, формация Ommelanden Chalk — [стр. 106].
+- T9 p19: Газовый фактор (GOR) при испытании скважины F/2-05 (1-я очистка) — 61.0 m³/m³ — скважина F/2-05, формация Ommelanden Chalk — [стр. 19, табл.].
+- T9 p: Газовый фактор (GOR) и коэффициент усадки нефти (Shrinkage factor) в паспортах поверхностных PVT-проб скважины F/2-06 (DST 1):
+- T9 p81: Пробы № 4 и № 5 (23.06.1997, 19:20–19:35, сепаратор 5.1 BarG / 40 °C): Separator GOR = 57 m3/m3, Stock tank GOR = 62 m3/m3, Shrinkage factor = 12 % — скважина F/2-06, формация Ommelanden Chalk — [стр. 81, 82].
+- T9 p83: Пробы № 12 и № 13 (26.06.1997, 02:00–02:15, сепаратор 5.6 BarG / 23.4 °C): Separator GOR = 40 m3/m3, Stock tank GOR = 44 m3/m3, Shrinkage factor = 1.1 % — скважина F/2-06, формация Ommelanden Chalk — [стр. 83, 84].
+- T9 p85: Пробы № 14 и № 15 (26.06.1997, 02:30–02:45, сепаратор 6 BarG / 26 °C): Separator GOR = 49 m3/m3, Stock tank GOR = 46 m3/m3, Shrinkage factor = 1.1 % — скважина F/2-06, формация Ommelanden Chalk — [стр. 85, 86].
+- T9 p87: Пробы № 16 и № 17 (26.06.1997, 03:00–03:15, сепаратор 6.1 BarG / 28 °C): Separator GOR = 48 m3/m3, Stock tank GOR = 46 m3/m3, Shrinkage factor = 1.1 % — скважина F/2-06, формация Ommelanden Chalk — [стр. 87, 88].
+- T9 p: Удельный вес (плотность) сепарированной нефти (Oil SG / Oil gravity):
+- T9 p: Свойства попутного газа (Gas SG [Air = 1], коэффициент сверхсжимаемости $F_{pv}$, содержание $\text{CO}_2$ и $\text{H}_2\text{S}$):
+- T9 p: Удельный вес (плотность) проб попутной/технической воды из сепаратора (Water SG):
+## 024 F02-06/NLOG_GS_PUB_19980617-1-12_F0206_Matig-20080509-140526.PDF 
+- T9 p41: Принятая плотность пластового флюида (assumed formation fluid density) — `8.6 ppg` — скважина F2-6 [стр. 41].
+- T9 p41: Сводные газопоказания по группе North Sea Group — фоновый газ (Background Gas): `0.45% to 1.25%`; максимальный пластовый газ (formation gas): `9.5%` на `1167 m`; максимальный газ наращивания (connection gas): `13% ABG` на `1147 m`; максимальный газ СПО (trip gas): `20%` на `1405 m`; газовый пик после flowcheck: `11% ABG` на `116
+- T9 p4: Данные PVT (давление насыщения $P_b$, газовый фактор, $B_o$, вязкость, плотность нефти/газа/воды в пластовых условиях) и сжимаемость породы — отсутствуют в документе [стр. 4].
+- T10 p4: Данные о запасах (STOIIP, GIIP, извлекаемые запасы, КИН) — отсутствуют в документе [стр. 4].
+## 025 F02-06/NLOG_GS_PUB_19980617-2-05_F0504_goed_20080602160040.pdf 
+- T9 p1: Оценка вязкости дегазированной нефти при пластовой температуре (Totölviskosität im Bereich der Lagerstättentemperatur) — около 20 mPa s для скважины F 5-4, что примерно в 10 раз выше, чем у сырой нефти из скважины F 2-5 (~2 mPa s) — скважины F 5-4 и F 2-5, горизонт Chalk — [стр. 1].
+- T9 p4: Плотность нефти при 15 °C (Dichte [15 °C]) | 840,7 kg/m³ | Скважина F 2-5 (F02-05), горизонт Chalk | [стр. 4, Anlage 2]
+- T9 p4: Плотность нефти в градусах API (°API) | 36,8 °API | Скважина F 2-5 (F02-05), горизонт Chalk | [стр. 4, Anlage 2]
+- T9 p4: Вязкость нефти при 20 °C (Viskosität 20 °C) | 4,9 mPa s | Скважина F 2-5 (F02-05), горизонт Chalk | [стр. 4, Anlage 2]
+- T9 p4: Вязкость нефти при 30 °C (Viskosität 30 °C) | 3,8 mPa s | Скважина F 2-5 (F02-05), горизонт Chalk | [стр. 4, Anlage 2]
+- T9 p4: Вязкость нефти при 40 °C (Viskosität 40 °C) | 3,0 mPa s | Скважина F 2-5 (F02-05), горизонт Chalk | [стр. 4, Anlage 2]
+- T9 p4: Вязкость нефти при 50 °C (Viskosität 50 °C) | 2,5 mPa s | Скважина F 2-5 (F02-05), горизонт Chalk | [стр. 4, Anlage 2]
+- T9 p4: Вязкость нефти при 60 °C (Viskosität 60 °C) | 2,1 mPa s | Скважина F 2-5 (F02-05), горизонт Chalk | [стр. 4, Anlage 2]
+- T9 p4: Вязкость нефти при 70 °C (Viskosität 70 °C) | 1,8 mPa s | Скважина F 2-5 (F02-05), горизонт Chalk | [стр. 4, Anlage 2]
+- T9 p4: Плотность нефти при 15 °C (Dichte [15 °C]) | 830,7 kg/m³ | Скважина F 2-6 (F02-06), горизонт Chalk | [стр. 4, Anlage 2]
+- T9 p4: Плотность нефти в градусах API (°API) | 38,8 °API | Скважина F 2-6 (F02-06), горизонт Chalk | [стр. 4, Anlage 2]
+- T9 p4: Вязкость нефти при 20 °C (Viskosität 20 °C) | 5,9 mPa s | Скважина F 2-6 (F02-06), горизонт Chalk | [стр. 4, Anlage 2]
+- T9 p4: Вязкость нефти при 30 °C (Viskosität 30 °C) | 5,1 mPa s | Скважина F 2-6 (F02-06), горизонт Chalk | [стр. 4, Anlage 2]
+- T9 p4: Вязкость нефти при 40 °C (Viskosität 40 °C) | 4,4 mPa s | Скважина F 2-6 (F02-06), горизонт Chalk | [стр. 4, Anlage 2]
+- T9 p4: Вязкость нефти при 50 °C (Viskosität 50 °C) | 3,9 mPa s | Скважина F 2-6 (F02-06), горизонт Chalk | [стр. 4, Anlage 2]
+- T9 p4: Вязкость нефти при 60 °C (Viskosität 60 °C) | 3,1 mPa s | Скважина F 2-6 (F02-06), горизонт Chalk | [стр. 4, Anlage 2]
+- T9 p4: Вязкость нефти при 70 °C (Viskosität 70 °C) | 2,5 mPa s | Скважина F 2-6 (F02-06), горизонт Chalk | [стр. 4, Anlage 2]
+- T9 p1: Плотность при 15 °C (D 15 °C / Dichte [15 °C]) | 930,0 kg/m³ | Скважина F 5-4 (F05-04), горизонт Chalk, интервал 1331–1360 m | [стр. 1], [стр. 3, Anlage 1], [стр. 4, Anlage 2]
+- T9 p1: Плотность в градусах API (°API) | 20,7 °API | Скважина F 5-4 (F05-04), горизонт Chalk, интервал 1331–1360 m | [стр. 1], [стр. 3, Anlage 1], [стр. 4, Anlage 2]
+- T9 p3: Вязкость при 20 °C (V 20) | 192 mPa s | Скважина F 5-4 (F05-04), горизонт Chalk, интервал 1331–1360 m | [стр. 3, Anlage 1], [стр. 4, Anlage 2]
+- T9 p3: Вязкость при 30 °C (V 30) | 104 mPa s | Скважина F 5-4 (F05-04), горизонт Chalk, интервал 1331–1360 m | [стр. 3, Anlage 1], [стр. 4, Anlage 2]
+- T9 p3: Вязкость при 40 °C (V 40) | 64 mPa s | Скважина F 5-4 (F05-04), горизонт Chalk, интервал 1331–1360 m | [стр. 3, Anlage 1], [стр. 4, Anlage 2]
+- T9 p3: Вязкость при 50 °C (V 50) | 40 mPa s | Скважина F 5-4 (F05-04), горизонт Chalk, интервал 1331–1360 m | [стр. 3, Anlage 1], [стр. 4, Anlage 2]
+- T9 p3: Вязкость при 60 °C (V 60) | 27 mPa s | Скважина F 5-4 (F05-04), горизонт Chalk, интервал 1331–1360 m | [стр. 3, Anlage 1], [стр. 4, Anlage 2]
+- T9 p3: Вязкость при 70 °C (V 70) | 18 mPa s | Скважина F 5-4 (F05-04), горизонт Chalk, интервал 1331–1360 m | [стр. 3, Anlage 1], [стр. 4, Anlage 2]
+## 038 F02-A-02/NLOG_GS_PUB_20080402-1-05_F02A02/MudlogA2 .doc 
+- T9 p3: Газопоказания и проявления в Maasluis Formation (F2-A2) — Max (502.0 m): T.G. 1.4300%, C1 14849 ppm, C2 0 ppm, C3 0 ppm, iC4 0 ppm, nC4 0 ppm, C5 0 ppm; Min (Var. m): T.G. 0.0000%, C1–C5 0 ppm; Ave: T.G. 0.0057%; Shows: None; H2S: None — скважина F2-A2, зона Maasluis Formation (97.3–693.0 m AHBRT) — [стр. 3]
+- T9 p4: Газопоказания и проявления в Upper Oosterhout Formation (F2-A2) — Max (786 m): T.G. 1.1004%, C1 9265 ppm, C2 19 ppm, C3 Tr, iC4 tr, nC4 tr, C5 tr; Min (751 m): T.G. 0.0873%, C1 410 ppm, C2 Tr, C3 Tr, iC4 tr, nC4 tr, C5 tr; Ave: T.G. 0.4743%; Shows: None; H2S: None — скважина F2-A2, зона Upper Oosterhout Formation (693.0–803.0 m 
+- T9 p5: Газопоказания и проявления в Top Gas Sand Member (плиоцен, F2-A2) — Max (819 m): T.G. 7.4658%, C1 69956 ppm, C2 162 ppm, C3 36 ppm, iC4 tr, NC4 tr, C5 tr; Min (828 m): T.G. 0.2023%, C1 1848 ppm, C2 tr, C3 tr, iC4 tr, NC4 tr, C5 tr; Ave: T.G. 2.6808%; Shows: None; H2S: None — скважина F2-A2, зона Top Gas Sand Member (803.0–833.0 
+- T9 p6: Газопоказания и проявления в Lower Oosterhout Formation (F2-A2) — Max (861 m): T.G. 2.2779%, C1 21775 ppm, C2 19 ppm, C3 tr, iC4 tr, NC4 tr, C5 tr; Min (1060. m): T.G. 0.1460%, C1 1728 ppm, C2 5 ppm, C3 tr, iC4 tr, NC4 tr, C5 tr; Ave: T.G. 0.8873%; Shows: None; H2S: None — скважина F2-A2, зона Lower Oosterhout Formation (833.0–1
+- T9 p7: Газопоказания и нефтепроявления в Breda Formation (F2-A2) — Max (1134 m): T.G. 1.1352%, C1 10138 ppm, C2 37 ppm, C3 tr, iC4 Tr, nC4 tr, C5 tr; Min (1205 m): T.G. 0.0498%, C1 1561 ppm, C2 26 ppm, C3 12 ppm, iC4 Tr, nC4 tr, C5 tr; Ave: T.G. 0.4411%; Shows: 1210 m–1250 m (Trace nil to moderate yellow white specs direct fluorescence
+- T9 p8: Газопоказания и проявления в Rupel Formation (F2-A2) — Max (1441.5 m): T.G. 14.919%, C1 58894 ppm, C2 12337 ppm, C3 9894 ppm, iC4 786 ppm, nC4 3549 ppm, C5 1850 ppm; Min (Var. m): T.G. 0.0000%, C1–C5 0 ppm; Ave: T.G. 2.8501%; H2S: None — скважина F2-A2, зона Rupel Formation (1341.0–1455.0 m AHBRT) — [стр. 8]
+- T9 p9: Газопоказания и проявления в Dongen Formation (F2-A2) — Max (1499 m): T.G. 1.1820%, C1 7488 ppm, C2 730 ppm, C3 799 ppm, iC4 118 ppm, nC4 250 ppm, C5 119 ppm; Min (1609 m): T.G. 0.0065%, C1 72 ppm, C2–C5 0 ppm; Ave: T.G. 0.102%; Shows: None; H2S: None — скважина F2-A2, зона Dongen Formation (1455.0–1613.0 m AHBRT) — [стр. 9]
+- T9 p10: Газопоказания и нефтепроявления в Basal Dongen Tuffite Member (F2-A2) — Max (1627.0 m): T.G. 3.9024%, C1 16111 ppm, C2 2405 ppm, C3 2313 ppm, iC4 282 ppm, nC4 712 ppm, C5 251 ppm; Min (1614.0 m): T.G. 0.0124%, C1 253 ppm, C2 39 ppm, C3 24 ppm, iC4 6 ppm, nC4 15 ppm, C5 0 ppm; Ave: T.G. 0.9130%; Shows: на 2135 m weak gold to pale
+- T9 p11: Газопоказания и проявления в Landen Formation (F2-A2) — Max (1645.0 m): T.G. 2.0400%, C1 10477 ppm, C2 1325 ppm, C3 1208 ppm, iC4 162 ppm, nC4 452 ppm, C5 202 ppm; Min (1667.0 m): T.G. 0.0911%, C1 691 ppm, C2 68 ppm, C3 54 ppm, iC4 8 ppm, nC4 48 ppm, C5 22 ppm; Ave: T.G. 0.5950%; Shows: None; H2S: None — скважина F2-A2, зона Lan
+- T9 p12: Газопоказания и проявления в Vaale Formation (F2-A2) — Max (1682.0 m): T.G. 0.4400%, C1 109 ppm, C2 96 ppm, C3 97 ppm, iC4 20 ppm, nC4 71 ppm, C5 59 ppm; Min (1677.0 m): T.G. 0.0344%, C1 38 ppm, C2 15 ppm, C3–C5 0 ppm; Ave: T.G. 0.0760%; Shows: None; H2S: None — скважина F2-A2, зона Vaale Formation (1671.0–1682.0 m AHBRT) — [стр
+- T9 p13: Газопоказания и нефтепроявления в Ekofisk Formation (F2-A2) — Max (1703.0 m): T.G. 28.492%, C1 93784 ppm, C2 19865 ppm, C3 19877 ppm, iC4 2721 ppm, nC4 7295 ppm, C5 3209 ppm; Min (2496.0 m): T.G. 0.0329%, C1 9 ppm, C2 8 ppm, C3–C5 0 ppm; Ave: T.G. 10.292%; Shows: Weak dull brown fluorescence with weak slow blooming cut fluoresce
+- T9 p14: Газопоказания и проявления в Rupel (F2-A2Z) — Max (1466.0 m): T.G. 0.2939%, C1 1094 ppm, C2 130 ppm, C3 51 ppm, iC4 5 ppm, nC4 12 ppm, C5 57 ppm; Min (1468.5 m): T.G. 0.0028%, C1 154 ppm, C2 34 ppm, C3 25 ppm, iC4–C5 0 ppm; Ave: T.G. 0.0882%; Shows: None; H2S: None — скважина F2-A2Z, зона Rupel (1341.0–1470.0 m AHBRT) — [стр. 14
+- T9 p15: Газопоказания и проявления в Dongen Formation (F2-A2Z) — Max (1516.5 m): T.G. 0.1330%, C1 447 ppm, C2 214 ppm, C3 11 ppm, iC4 7 ppm, nC4 6 ppm, C5 4 ppm; Min (1558.0 m): T.G. 0.0005%, C1 257 ppm, C2 42 ppm, C3 17 ppm, iC4 7 ppm, nC4 4 ppm, C5 4 ppm; Ave: T.G. 0.0205%; Shows: None; H2S: None — скважина F2-A2Z, зона Dongen Formati
+- T9 p16: Газопоказания и проявления в Basal Dongen Tuffite Member (F2-A2Z) — Max (1656.5 m): T.G. 0.6778%, C1 2956 ppm, C2 602 ppm, C3 350 ppm, iC4 31 ppm, nC4 62 ppm, C5 0 ppm; Min (1624.5 m): T.G. 0.0019%, C1 623 ppm, C2 132 ppm, C3 131 ppm, iC4 39 ppm, nC4 54 ppm, C5 16 ppm; Ave: T.G. 0.1978%; Shows: None; H2S: None — скважина F2-A2Z,
+- T9 p17: Газопоказания и проявления в Landen Formation (F2-A2Z) — Max (1658.5 m): T.G. 0.7021%, C1 1105 ppm, C2 220 ppm, C3 132 ppm, iC4–C5 0 ppm; Min (1672.0 m): T.G. 0.0029%, C1 393 ppm, C2 5 ppm, C3 53 ppm, iC4 20 ppm, nC4 59 ppm, C5 0 ppm; Ave: T.G. 0.1341%; Shows: None; H2S: None — скважина F2-A2Z, зона Landen Formation (1658.0–1700
+- T9 p18: Газопоказания и проявления в Vaale Formation (F2-A2Z) — Max (1708.5 m): T.G. 0.8705%, C1 363 ppm, C2 20 ppm, C3 55 ppm, iC4 81 ppm, nC4 39 ppm, C5 40 ppm; Min (1718.0 m): T.G. 0.0186%, C1 188 ppm, C2 55 ppm, C3 0 ppm, iC4 44 ppm, nC4–C5 0 ppm; Ave: T.G. 0.0920%; Shows: None; H2S: None — скважина F2-A2Z, зона Vaale Formation (170
+- T9 p19: Газопоказания и нефтепроявления в Ekofisk Formation (F2-A2Z) — Max (1979.5 m): T.G. 5.054%, C1 60558 ppm, C2 12789 ppm, C3 8056 ppm, iC4 929 ppm, nC4 2523 ppm, C5 585 ppm; Min (2173.5 m): T.G. 0.012%, C1 142 ppm, C2 13 ppm, C3 10 ppm, iC4 15 ppm, nC4 8 ppm, C5 19 ppm; Ave: T.G. 1.082%; Shows: 100% pale yellow orange stain, 100% 
+## 039 F02-A-02/NLOG_GS_PUB_20080402-1-05_F02A02/OverPressureA2.xls 
+- T9 p: **Плотность породы (Formation Density)** — от `750.288 kg/m3` до `2957.3415327703 kg/m3` — скважина F2-A2, интервал `10–1720 metres` Depth (`10–1437.413 metres` Vertical Depth, зона не указана) [лист «OB data», строки 7–178].
+## 052 F02-A-02/NLOG_GS_PUB_Final Geological Reports/figures/F2-A2mick.xls 
+- T9 p: Газовый фактор на режиме 1 (GOR) — 1.6957084322 (единицы не указаны) — скважина F2-A2 (зона не указана) — [лист «A2 new», строки 1–2].
+- T9 p: Газовый фактор на режиме 2 (GOR) — 1.9883945841 (единицы не указаны) — скважина F2-A2 (зона не указана) — [лист «A2 new», строки 1, 3].
+- T9 p: Газовый фактор на режиме 3 (GOR) — 1.9604313419 (единицы не указаны) — скважина F2-A2 (зона не указана) — [лист «A2 new», строки 1, 4].
+- T9 p: Газовый фактор на режиме 4 (GOR) — 1.979304071 (единицы не указаны) — скважина F2-A2 (зона не указана) — [лист «A2 new», строки 1, 5].
+- T9 p: Газовый фактор на режиме 5 (GOR) — 1.9811866196 (единицы не указаны) — скважина F2-A2 (зона не указана) — [лист «A2 new», строки 1, 6].
+- T9 p: Газовый фактор на режиме 6 (GOR) — 1.977177924 (единицы не указаны) — скважина F2-A2 (зона не указана) — [лист «A2 new», строки 1, 7].
+- T9 p: Газовый фактор на режиме 7 (GOR) — 1.9563496198 (единицы не указаны) — скважина F2-A2 (зона не указана) — [лист «A2 new», строки 1, 8].
+- T9 p: Газовый фактор на режиме 8 (GOR) — 1.924252306 (единицы не указаны) — скважина F2-A2 (зона не указана) — [лист «A2 new», строки 1, 9].
+## 055 F02-A-02/NLOG_GS_PUB_Final Geological Reports/tables/Tab6.5.1_F2A2zSum3.doc 
+- T9 p1: Тип насыщающего флюида в зоне — `OIL AND/OR GAS` — скважина F2-A2Z, зона Ekofisk (8 1/2" Horizontal), интервал 1719.1 to 2125.1 m [стр. 1].
+## 056 F02-A-02/NLOG_GS_PUB_Final Geological Reports/tables/Tab6.5.2_F2A2z6sum1.doc 
+- T9 p1: Тип насыщающего флюида в зоне — `OIL AND/OR GAS` — скважина F2-A2z, зона Ekofisk (6" Horizontal), интервал 2145.9 to 2525.0 m [стр. 1].
+## 057 F02-A-02/NLOG_GS_PUB_Final Geological Reports/tables/Tab6.5.3_F2A2zSum_all.doc 
+- T9 p1: Тип насыщающего флюида в зоне — `OIL AND/OR GAS` — скважина F2-A2Z, зона Ekofisk (8 1/2" + 6"Horizontal), интервал 1719.0 to 2525.0 m [стр. 1].
+## 073 F02-A-03/NLOG_GS_PUB_20080402-1-09_F02A03-S1-S2/OverPressureA3.xls 
+- T9 p: Плотность породы (`Formation Density`) в интервале `Vertical Depth 0–50 metres` — `410 kg/m3` (`0.41 sg`) — скважина F02-A-03 (зона не указана) [лист «OB data», строки 9–14].
+- T9 p: Плотность породы (`Formation Density`) в интервале `Vertical Depth 60–90 metres` — `1040 kg/m3` (`1.04 sg`) — скважина F02-A-03 (зона не указана) [лист «OB data», строки 15–18].
+- T9 p: Плотность породы (`Formation Density`) в интервале `Vertical Depth 100–160 metres` — `1908.3271741808 kg/m3` (`1.9083271742 sg`) — скважина F02-A-03 (зона не указана) [лист «OB data», строки 19–25].
+- T9 p: Плотность породы (`Formation Density`) в интервале `Vertical Depth 170–900 metres` — варьирует от `1943.4100683026 kg/m3` (`1.9434100683 sg`) на `170 m` до `2183.8055472711 kg/m3` (`2.1838055473 sg`) на `840 m` (локальный минимум `1992.7353789667 kg/m3` / `1.992735379 sg` на `220 m`, на `900 m` — `2166.5191740413 kg/m3` / `2.166
+- T9 p: Плотность породы (`Formation Density`) в интервале `Vertical Depth 910–1260 metres` — варьирует от `2158.7026709715 kg/m3` (`2.158702671 sg`) на `1250 m` до максимума `2252.3024268824 kg/m3` (`2.2523024269 sg`) на `1060 m` (на `1260 m` — `2195.703125 kg/m3` / `2.195703125 sg`) — скважина F02-A-03 (зона не указана) [лист «OB data
+- T9 p: Плотность породы (`Formation Density`) в интервале АВПД `Vertical Depth 1270–1650 metres` — снижается от `2179.0960451977 kg/m3` (`2.1790960452 sg`) на `1270 m` до минимумов `2078.4242761693 kg/m3` (`2.0784242762 sg`) на `1310 m`, `1430 m` и `1550 m` (локальные максимумы `2154.1410594088 kg/m3` / `2.1541410594 sg` на `1350 m`, `
+- T9 p: Плотность породы (`Formation Density`) в интервале `Vertical Depth 1660–1710 metres` — `2120 kg/m3` (`2.12 sg`) на `1660 m`; `2130 kg/m3` (`2.13 sg`) на `1670 m`; `2140 kg/m3` (`2.14 sg`) на `1680 m`; `2120 kg/m3` (`2.12 sg`) на `1690 m`; `2150 kg/m3` (`2.15 sg`) на `1700 m`; `2200 kg/m3` (`2.2 sg`) на `1710 m` — скважина F02-A-
+## 087 F02-A-03/NLOG_GS_PUB_20111010-00-02_F02-A-03.PDF 
+- T9 p3: Пласт Ekofisk, глубина 1650 m AHBRT (1426.25 m TVDSS): тип флюида — `Oil` (нефть), первая нефть получена после откачки 6 литров (`after 6 ltrs`), отобраны пробы в пробоотборники `5, #759` (общий откачанный объём 46215, время откачки 7min) и `6, #760` (общий объём 73710, время откачки 47.4min) [стр. 3, табл. MDT Fluid Samples].
+## 089 F02-A-03/NLOG_GS_PUB_F2-A3 Final evaluation well report.doc 
+- T9 p11: Глубинные пробы нефти MDT — отобраны 2 представительные глубинные пробы нефти (Bottle 5, SN 759: объём откачки 46215 cc [в табл. 46215 liters], время 7 min, первая нефть после 6 л, давление претеста 219.21 bars, мин. давление откачки 218.78 bars, давление закрытия 218.79–219.14 bars; Bottle 6, SN 760: объём откачки 73710 cc, вре
+- T9 p107: Плотность углеводородов (Rho-hc в модели OPTIMA) — 0.724 g/cc — скважины F2-A3 Pilot, F2-A3z, F2-A3y — [стр. 107, 121, 130].
+- T9 p: **Газопоказания и компонентный состав газа по хроматографу при бурении (C1, C2, C3, iC4, nC4 / C4, C5)**:
+- T9 p: Полные поинтервальные таблицы газопоказаний и хроматографии (C1–C4/C5 в ppm) и таблиц нефтепроявлений (Stain %, Fluor %, Cut, Rate 0–6 по «tea cut» шкале):
+- T9 p68: Меловой разрез F2-A3 Pilot (1631–1930 mMDBRT: в Ekofisk 1631–1659 m газ 0.35–32.0 %, avg 6.00 %, C1 = 16482 ppm, C2 = 4057 ppm, C3 = 4038 ppm, nC4 = 1509 ppm, iC4 = 565 ppm; в Ommelanden 1659–1708 m газ до 9.4 %) — [стр. 68, табл. 4.3.1; стр. 70–71, табл. 4.4.3].
+- T9 p69: Меловой разрез F2-A3z (1636–2710 mMDBRT: в Ekofisk 1636–1672 m газ 0.27–7.30 %, avg 4.00 %, C1 = 20626 ppm, C2 = 1869 ppm, C3 = 1844 ppm, nC4 = 1300 ppm, iC4 = 378 ppm; в Ommelanden 1673–1845 m газ 1.5–11.0 %, avg 5.0 %, C1 = 44593 ppm, C2 = 4547 ppm, C3 = 5316 ppm, nC4 = 2750 ppm, iC4 = 853 ppm) — [стр. 69, табл. 4.3.1; стр. 71
+- T9 p70: Меловой разрез F2-A3y (1636–2742 mMDBRT: в Ekofisk 1636–1678 m газ 0.4–5.8 %, avg 3.2 %, C1 = 16958 ppm, C2 = 5570 ppm, C3 = 4870 ppm, nC4 = 1524 ppm, iC4 = 554 ppm; в Ommelanden 1678–1850 m газ 0.9–5.6 %, avg 3.5–4.5 %) — [стр. 70, табл. 4.3.2; стр. 71, табл. 4.3.5]. ---
+- T10 p101: В документе численные значения STOIIP, GIIP, извлекаемых запасов и КИН не приведены (указана только цель сбора данных в F2-A3 Pilot для определения входных параметров подсчёта запасов — «input parameters for volumetrics») — [стр. 101]. ---
+## 090 F02-A-03/NLOG_GS_PUB_Figures/Fig 7.3.1 F2-A3y completion diagram.xls 
+- T9 p: Затрубный флюид (ANNULAR FLUID) — `1.01 SG INHIBITED SEAWATER` — скважина F2-A3y [лист «COMPL», строка 13]. **Общие сведения по заканчиванию и привязке глубин (скважина F2-A3y):**
+## 094 F02-A-03/NLOG_GS_PUB_MDT Fluid sample sheet.xls 
+- T9 p: Проба `5, # 759`: общий объём — 46215, время откачки — 7min, объём до появления первой нефти (Vol at 1st Oil) — `after 6 ltrs`, тип флюида — `Oil` [лист «Sheet1», строка 16].
+## 095 F02-A-03/NLOG_GS_PUB_MDTpretestsF2A3.xls 
+- T9 p: Отбор проб пластовой воды (`Water Samples`) в точке замера № 1A на глубине 1800 mtrs MD (1515.14 mtrs TVDSS) — скважина F2-A3 [лист «Sheet1», строка 14; лист «Sheet2», строка 14].
+## 105 F02-A-06-SIDETRACK1/NLOG_GS_PUB_17-8-F02-A-06-S1_CPI500_MD (1).pdf 
+- T9 p1: Плотность углеводородов `EVAL:RHOHY` — шкала `1`–`0 (g/cc)`, постоянное значение `0.7 g/cc` на всем интервале — скважина F2-A-06 S1, интервал 2110–2400 M — [стр. 1].
+- T9 p1: Тип насыщающего флюида по цветовой кодировке дорожки `Porosity` — `Oil` (зеленая заливка между `EVAL:PHIE` и `EVAL:BVW` в интервале ~2149–2165 M), `Water` (ниже ~2165 M), `Gas` (красная заливка, на диаграмме отсутствует) — скважина F2-A-06 S1, зоны EKOFISK, VAALE, LANDEN — [стр. 1].
+## 109 F02-A-06-SIDETRACK3/NLOG_GS_PUB_FWR F2-A-06.pdf 
+- T10 p24: Целевые запасы (Well target) | Остаточные сводовые запасы в районе скважины A04 месторождения Hanze, не дренируемые существующими добывающими скважинами (attic reserves in the A04 area of the Hanze field above the existing F2-A-04 wellbore) | Скважина F2-A-06 (и боковые стволы S1–S3), Ekofisk Formation | [стр. 24, разд. 2.1]
+## 110 F02-A-06-SIDETRACK3/NLOG_GS_PUB_HAEXP-INT3-GG-RPT-0095.00 Geological Final Well Report F02-A-06 (-S1S2S3).pdf 
+- T9 p55: Плотность нефти в пластовых условиях (Oil density / `Hc Den`) | 0.724 g/cc (из отчёта по скв. F02-06, Internal Ref. 2; параметр `Hc Den Min : 0.1`) | Скв. F02-A-06-S3 (и скв. F02-06), формация Ekofisk, зоны 1–4 (2280.00–2483.60 m MD) | [стр. 55, 58, 59]
+- T9 p55: Плотность связанной пластовой воды (connate water density) | 1.12 g/cc | Скв. F02-A-06-S3, формация Ekofisk | [стр. 55]
+- T9 p30: Средние газопоказания и состав газа во вмещающих толщах F02-A-06-S1 | Maassluis (190.00–675.00 mD): TG = 0.32%, C1 = 3273 ppm, C2 = 4 ppm; Oosterhout (675.00–809.20 mD): TG = 0.64%, C1 = 6546 ppm, C2 = 8 ppm; Oosterhout (827.30–1226.00 mD): TG = 0.37%, C1 = 3674 ppm, C2 = 6 ppm; Breda (1226.00–1497.20 mD): TG = 0.26%, C1 = 1876,
+- T9 p30: Средние газопоказания и состав газа в F02-A-06-S3 | Vaale (2168.00–2179.50 mD): TG = 0.10%, C1 = 393, C2 = 53, C3 = 33, iC4 = 3, nC4 = 14, iC5 = 7, nC5 = 10 ppm; Landen (2179.50–2205.50 mD): TG = 0.11%, C1 = 827, C2 = 55, C3 = 14, iC4 = 1, nC4 = 5, iC5 = 2, nC5 = 3 ppm; Vaale (2205.50–2280.00 mD): TG = 0.08%, C1 = 592, C2 = 45, 
+- T9 p31: Газовые пики (Significant gas peaks) в Pliocene Gas Sand и Ekofisk | Скв. F02-A-06-S1: Pliocene Gas Sand на 820.75 mD (TG = 1.48%, C1 = 14683 ppm, C2 = 14 ppm); Ekofisk на 2153.00 mD (TG = 2.88%, C1 = 15794, C2 = 2568, C3 = 1502, iC4 = 137, nC4 = 363, iC5 = 94, nC5 = 129 ppm), на 2155.00 mD (TG = 2.50%, C1 = 8482, C2 = 1820, C3 
+## 113 F02-B-01/NLOG_GS_PUB_20090519-6-01_HPWEC-INT3-DR-PRG-0002-03 F2-B-01 Gravel pack screen completion.pdf 
+- T9 p4: Состав газа по газовому хроматографу (gas chromatograph) — over 95% methane (более 95% метана) — скважина F02-06, секция коллектора (Плиоцен) — [стр. 4].
+## 114 F02-B-01/NLOG_GS_PUB_F02-B-01 gas analysis.pdf 
+- T9 p1: Methane (метан) | 99.05156 Mass % / 99.49901 Mol % | 99.05476 Mass % / 99.50451 Mol % | 98.92863 Mass % / 99.45300 Mol % | 99.01165 Mass % / 99.48551 Mol % | Скважина F2/Hanze B-01 (F02-B-01), газ плиоцена, Choke Manifold, отбор 27.05.2009 | [стр. 1]
+- T9 p1: Hydrogensulphide, Carbonyl Sulphide, Methanethiol, Ethanethiol, i-Propanethiol, n-Propanethiol (серосодержащие компоненты, каждый из 6) | 0.00000 Mass % / 0.00000 Mol % | 0.00000 Mass % / 0.00000 Mol % | 0.00000 Mass % / 0.00000 Mol % | 0.00000 Mass % / 0.00000 Mol % | Скважина F2/Hanze B-01 (F02-B-01), газ плиоцена, Choke Manif
+- T9 p2: Высшая теплота сгорания молярная (calorific value superior) | 887.57136 KJ/mol @ 25oC | 887.537234 KJ/mol @ 25oC | 886.71167 KJ/mol @ 25oC | 887.2734226 KJ/mol @ 25oC | Скважина F2/Hanze B-01 (F02-B-01), газ плиоцена, Choke Manifold | [стр. 2]
+- T9 p2: Низшая теплота сгорания молярная (calorific value inferior) | 799.86948 KJ/mol @ 25oC | 799.837999 KJ/mol @ 25oC | 799.08518 KJ/mol @ 25oC | 799.5975537 KJ/mol @ 25oC | Скважина F2/Hanze B-01 (F02-B-01), газ плиоцена, Choke Manifold | [стр. 2]
+- T9 p2: Коэффициент сжимаемости смеси (z mix) | 0.9976036 | 0.99760366 | 0.9976035 (в строке сдвинуто со средним 0.997603611) | 0.997603611 (в строке сдвинуто с 0.9976035) | Скважина F2/Hanze B-01 (F02-B-01), газ плиоцена, Choke Manifold | [стр. 2]
+- T9 p2: Относительная плотность (relative density) | 0.5574414 | 0.55744897 (в строке сдвинуто со средним 0.55758638) | 0.5578688 | 0.55758638 | Скважина F2/Hanze B-01 (F02-B-01), газ плиоцена, Choke Manifold | [стр. 2]
+- T9 p2: Плотность (density, в таблицах CALCULATED PROPERTIES и SAMPLE EVALUATION) | 0.7207287 kg/m3 | 0.7207385 kg/m3 | 0.7212813 kg/m3 | 0.720916159 kg/m3 | Скважина F2/Hanze B-01 (F02-B-01), газ плиоцена, Choke Manifold | [стр. 2]
+- T9 p2: Высшая теплота сгорания массовая (calorific value superior) | 55.074705 KJ/g (GJ/ton) | 55.0718385 KJ/g (GJ/ton) | 54.979216 KJ/g (GJ/ton) | 55.04190392 KJ/g (GJ/ton) | Скважина F2/Hanze B-01 (F02-B-01), газ плиоцена, Choke Manifold | [стр. 2]
+- T9 p2: Низшая теплота сгорания массовая (calorific value inferior) | 49.632714 KJ/g (GJ/ton) | 49.6300859 KJ/g (GJ/ton) | 49.546068 KJ/g (GJ/ton) | 49.60294156 KJ/g (GJ/ton) | Скважина F2/Hanze B-01 (F02-B-01), газ плиоцена, Choke Manifold | [стр. 2]
+- T9 p2: Высшая теплота сгорания объёмная (calorific value superior, в таблицах CALCULATED PROPERTIES и SAMPLE EVALUATION) | 39.693921 MJ/m3 (GJ/km3) | 39.6923943 MJ/m3 (GJ/km3) | 39.655478 MJ/m3 (GJ/km3) | 39.68059794 MJ/m3 (GJ/km3) | Скважина F2/Hanze B-01 (F02-B-01), газ плиоцена, Choke Manifold | [стр. 2]
+- T9 p2: Низшая теплота сгорания объёмная (calorific value inferior) | 35.771722 MJ/m3 (GJ/km3) | 35.7703137 MJ/m3 (GJ/km3) (в строке сдвинуто с 35.73665) | 35.73665 MJ/m3 (GJ/km3) | 35.75956209 MJ/m3 (GJ/km3) | Скважина F2/Hanze B-01 (F02-B-01), газ плиоцена, Choke Manifold | [стр. 2]
+- T9 p2: Отклонение плотности от среднего (DEVIATION FROM AVERAGE: density) | -0.026001 % | -0.0246435 % | 0.0506445 % | — | Скважина F2/Hanze B-01 (F02-B-01), газ плиоцена, Choke Manifold | [стр. 2]
+- T9 p2: Отклонение высшей теплоты сгорания от среднего (DEVIATION FROM AVERAGE: calorific value superior) | 0.033576 % | 0.02972827 % | -0.0633043 % | — | Скважина F2/Hanze B-01 (F02-B-01), газ плиоцена, Choke Manifold | [стр. 2]
+## 120 V-66176 - Winningsplan F02a Hanze - Openbaar_Geredigeerd.pdf 
+- T9 p11: Плотность нефти в стандартных условиях (soortelijk gewicht) — 37 °API — месторождение Hanze [стр. 11].
+- T9 p11: Газовый фактор (GOR / Gas to Oil Ratio) — ~90 $Nm^{3}/Sm^{3}$ ($\sim90~Nm3/Sm3$) — месторождение Hanze [стр. 11, 20].
+- T9 p11: Давление насыщения нефти ('bubble point' druk) — 110 bar в пластовых условиях — месторождение Hanze [стр. 11].
+- T9 p24: Метан (Methaan) | 26.70 | 61.93 | Месторождение F02a Hanze | [стр. 24, табл. «Samenstelling van geproduceerde vloeistoffen F02a Hanze»]
+- T9 p10: Вклад сжимаемости порового объёма (PV Compress. Energy (%)) — отображён на графике энергетического баланса как малая доля (<3%) в общем балансе энергии пласта — месторождение Hanze [стр. 10, рис. «Hanzeveld - Energie diagram»].
+- T10 p11: Начальные геологические запасы свободного газа (Hanze gecombineerd vrij gas) — Base Case (P50): 0 $MMNm^{3}$; Upside Case (P10): 0 $MMNm^{3}$ — месторождение Hanze (модель Petrel 2009 г.) [стр. 11, табл. «HCIIP Volumes gebaseerd op het 2009 statisch model»].
+- T10 p11: Начальные геологические запасы нефти (Hanze Oil/STOIIP) — Base Case (P50): 20.03 $MMSm^3$ (20,03 $MMSm^3$); Upside Case (P10): 26,71 $MMSm^3$ — месторождение Hanze (модель Petrel 2009 г.) [стр. 11, табл. «HCIIP Volumes gebaseerd op het 2009 statisch model»].
+- T10 p22: Начальные геологические запасы нефти (STOIIP, вариант написания в тексте к таблицам 2P и 3P) — P50 STOIIP: 20,03 $MMSm^3$ (20,03 MMsm3); P10 STOIIP: 26,70 $MMSm^3$ (26,70 MMSm3) — месторождение Hanze [стр. 22, 23].
+- T10 p20: Остаточные технические запасы 2P на 1 января 2024 г. (bruto resterende 2P technische reserves per 1 januari 2024) — 1,56 $MMSm^{3}$ нефти — месторождение Hanze [стр. 20].
+- T10 p21: Технические извлекаемые запасы 1P (Laag Case, гиперболическое падение по методу DCA с b-factor = 0,4) и КИН (RF) — итого до 2050 г.: 11.951.756 $Sm^3$ (11,95 MMSm3) нефти, 948.900 $1000~Nm^3$ газа, 0 $Sm^3$ конденсата; КИН (recovery factor, RF) = 60% от P50 STOIIP или 45% от P10 STOIIP — месторождение F02a Hanze [стр. 21, табл. 
+- T10 p22: Технические извлекаемые запасы 2P (Midden Case, гиперболическое падение по методу DCA с b-factor = 0,7) и КИН (winningspercentage) — итого до 2050 г.: 12.190.223 $Sm^3$ (12,19 MMSm³) нефти, 965.634 $1000~Nm^3$ газа, 0 $Sm^3$ конденсата; КИН (winningspercentage) = 61% от P50 STOIIP (20,03 MMSm³) или 46% от P10 STOIIP (26,70 MMSm³
+- T10 p23: Технические извлекаемые запасы 3P (Hoog Case, гармоническое падение по методу DCA с b-factor = 1) и КИН (RF) — итого до 2050 г.: 12.388.545 $Sm^3$ (12,39 MMsm3) нефти, 980.846 $1000~Nm^3$ газа, 0 $Sm^3$ конденсата; КИН (RF) = 62% от P50 STOIIP (20,03 MMsm3) или 46,4% от P10 STOIIP (26,70 MMSm3) — месторождение F02a Hanze [стр. 2
+- T10 p13: Плиоценовая газовая залежь (F02a Pliocene gasveld) — разрабатывается с июля 2009 г. одной горизонтальной скважиной F02-B-01; данные о запасах и разработке вынесены в отдельный документ «Winningsplan F2-A Plioceen Gasveld» (HPEXP-INT3-PM-PLN-0001, решение DGKE-WO/V-15204 от 2022 г.) — месторождение F02a Plioceen, скважина F02-B-0
+## 121 WIPLA F2a Hanze_AANGEPAST-PUB.pdf 
+- T9 p7: Плотность нефти (Oil gravity) — 37 °API — нефтяное месторождение Hanze [стр. 7].
+- T9 p7: Газовый фактор (GOR) — ~90 Nm3/Sm3 (в тексте: `-90 Nm3/Sm3.`) — нефтяное месторождение Hanze [стр. 7].
+- T9 p7: Давление насыщения (Bubble point pressure) — 110 bar при пластовых условиях (нефть недонасыщенная, свободного газа нет) — нефтяное месторождение Hanze [стр. 7].
+- T9 p5: Свойства газа плиоцена — очень тощий газ, практически чистый метан (very lean, virtually pure methane), без сопутствующих жидких УВ (no associated liquids / no liquid reserves) — газовое месторождение F02a Pliocene [стр. 5, 15].
+- T10 p7: Начальные геологические запасы свободного газа (Hanze combined free gas, Base Case P50, модель Petrel 2009) — 0 MMNm³ — месторождение Hanze [стр. 7, табл. Hydrocarbons Initially In Place].
+- T10 p7: Начальные геологические запасы попутного газа (Hanze combined associated gas, Base Case P50, модель Petrel 2009) — 1,770 MMNm³ (1.77 bcm) — месторождение Hanze [стр. 7, табл. Hydrocarbons Initially In Place].
+- T10 p7: Начальные геологические запасы нефти (Hanze Oil/STOIIP, Base Case P50, модель Petrel 2009) — 132 MMbbl (в таблице `MMbb`) — месторождение Hanze [стр. 7, табл. Hydrocarbons Initially In Place].
+- T10 p4: Начальные извлекаемые запасы 2P (Gross proven and probable ultimate recovery) — 66.9 MMbbls нефти (oil) и 0.6 Bcm газа — месторождение Hanze [стр. 4].
+- T10 p4: Остаточные извлекаемые запасы 2P (Gross remaining reserves (2P) as of 1st July 2012) — 11.7 MMboe — месторождение Hanze [стр. 4].
+- T10 p5: Доказанные и вероятные запасы газа плиоцена (Proven and probable gross Pliocene gas reserves) — 0.5 Bcm газа, жидких запасов нет (no liquid reserves) — газовое месторождение F02a Pliocene [стр. 5].
+## 130 F02-A-06/NLOG_GS_PUB_F2-A6_DANA_FINAL_WELL_REPORT_CD.pdf 1/5 p1-128
+- T9 p15: Плотность нефти в пластовых/стандартных условиях: `36 deg API` (при `74 deg C @ -1,356m TVDSS`) — скважина F2-A-06 (и соседняя F02-A-04), пласт Ekofisk Chalk [стр. 15, разд. 1.d].
+- T10 p7: Целевое назначение скважины по запасам: доразработка «чердачной нефти» (`"attic oil" of the Ekofisk reservoir`) — скважина F2-A-06, пласт Ekofisk Chalk [стр. 7, разд. 2.1].
+## 189 F02-A-02/NLOG_GS_PUB_20080402-1-05_F02A02/Pore PressureF2A2.xls 
+- T9 p: `æ` = `0.14`, `m Ratio` = `0.1627906977` — скважина F2A2, интервал `1290`–`1710` mMD (`1183.59217139`–`1402.1341263012` mTVD) — [лист «FRACTURE», строки 142–184] --- **Акустический каротаж и расчётная плотность (`From Sclumberger Sonic Log`, скважина VEBA OEL F2A2, лист «Sonic DensityF2A3»):**
+## 194 F02-A-03/NLOG_GS_PUB_20080402-1-09_F02A03-S1-S2/PressvA3.xls 
+- T9 p: **BULK DENSITY (объёмная плотность породы по профилю глубины)**: от `0.41` до `2.2523024269` (на листе «Help», строки 12, 80, 96 указаны единицы `G/CC`) — скважина F2-A3, интервал TVD `55.05–1410`, зона не указана (поинтервальные значения приведены в таблице пункта 5) [лист «ASCII Data», строки 1–135; лист «Help», строки 12, 80,
+## 195 F02-03/NLOG_GS_PUB_Drill Stem Tests 1, 2 and 2A_F02-03.pdf 1/2 p1-48
+- T9 p6: Плотность (удельный вес) нефти (Oil S.G. at 60°F / API gravity) в DST No. 1 — в период отработки (01.08.1982): `0.98` (проба № 2, 31.07.1982, 20:50), `0.812` (01.08.1982, 06:00), `0.828` (проба № 13 из мерника, 01.08.1982, 06:15), `39°` / `39API` (в таблице результатов для 04:45 и 08:00 01.08.1982); в периоды притока после кисло
+- T9 p13: Относительная плотность газа (Gas S.G., air = 1) и содержание сероводорода ($\text{H}_2\text{S}$) в DST No. 1 — `Dräger H2S = 0ppm` (31.07.1982, 20:00); относительная плотность газа при разрядке азота и возврате отработанной кислоты через сепаратор (01.08.1982): `1.33` (14:00), `1.40` (14:15–14:30), `1.44` (15:00) — скважина F/2
+- T9 p54: Состав газа на поверхности (хроматография, 11.08.1982, 17:30) — `CO2 = 0%`, `H2S = 0ppm`, `C1 = 48%`, `C2 = 37%`, `C3 = 9.7%`, `C4 = 4.8%` — скв. F/2-3, интервал Limestone (1185–1222 м, 1232–1247 м), DST No. 2A [стр. 6, 15].
+- T9 p63: Относительная плотность газа (по воздуху, `air=1`) — `S.G. = 0.8919` (11.08.1982, 18:00) — скв. F/2-3, интервал Limestone (1185–1222 м, 1232–1247 м), DST No. 2A [стр. 15].
+- T9 p70: Относительная плотность нефти (`OIL S.G.`) и кислоты (13.08.1982, 02:30) — плотность нефти `S.G. = 0.928`, плотность жидкости/кислоты `S.G. = 1.180` (при `3% Oil`, `P.H. 1.`) — скв. F/2-3, интервал Limestone (1185–1222 м, 1232–1247 м), DST No. 2A [стр. 22].
+- T9 p75: Относительная плотность нефти/пробы (`OIL S.G.`) — `0.860 at 69°F` (в ведомости испытания, 14.08.1982, 19:45) / `0.864` (в ведомости проб для пробы № 5 от 14.08.1982, 19:30) — скв. F/2-3, интервал Limestone (1185–1222 м, 1232–1247 м), DST No. 2A [стр. 27, 48].
+- T9 p77: Относительная плотность (`S.G.`), pH и солёность попутной пластовой воды (15–16.08.1982) — `S.G. = 1.125`–`1.13` (`1.130`, `1.13 at 64°F`, `1.13 at 65°F`), `P.H. 5`–`6`, хлориды $Cl =$ `97,000`–`110,000 ppm` (пробы № 6, 8, 9, 11, 13) — скв. F/2-3, интервал Limestone, DST No. 2A [стр. 29–32, 48].
+## 199 F02-A-02/NLOG_GS_PUB_F2-A2 Final  well evaluation report _FINAL.pdf 1/2 p1-56
+- T9 p51: Газопоказания и компонентный состав газа по газовому каротажу (хроматограф `C1–C4`) в третичном разрезе — скважина F2-A2 pilot [стр. 51, табл. 3.3.2]:
+- T9 p96: Плотность углеводородов (Rho-hc), использованная при петрофизической интерпретации в OPTIMA — 0.724 g/cc0.724\text{ g/cc}0.724 g/cc — скв. F2-A2z, пласт Ekofisk (секции 8 1/2" и 6") [стр. 40].
+- T9 p70: Газопроявления и компонентный состав газа (C1–iC4, в ppm / % по газовому каротажу) по интервалам и биозонам — приведены минимальные, максимальные и средние значения суммы газов (0.01–6.0%, среднее 0.3–20%) и концентрации компонентов C1 (538–87872), C2 (167–15060), C3 (141–7396), nC4 (66–2310), iC4 (24–533) для 18 интервалов от 1
+## 201 F02-A-03/NLOG_GS_PUB_F02-A-03 SCAL Report vea000392190.pdf 1/2 p1-59
+- T9 p28: Вязкость лабораторного очищенного минерального масла | `1.4 cp @ 70°F` | Скважина F2-A3 (HANZE), рабочий флюид в опытах $P_c$, $RI$ и ОФП | [стр. 28, 35]
+## 203 F02-B-01/NLOG_GS_PUB_HPEXP-INT3-GG-RPT-0002 F02-B-01 Geological FWR.pdf 1/2 p1-41
+- T9 p9: **Генезис и состав газа плиоцена** — биодеградированный газ (мигрировавший вертикально из меловой залежи, материнская порода — тоарские сланцы Posidonia Shale), богатый метаном с небольшой термогенной примесью; по данным газового каротажа при бурении F02-B-01 зафиксирован исключительно метан ($C_1$), гомологи $C_2$–$nC_5$ равны 
+- T10 p8: **Распределение GIIP по пачкам плиоцена** — более 90% начальных геологических запасов газа (GIIP) сосредоточено в верхней пачке коллектора (upper reservoir unit) — блок F02a, зона плиоцена (Oosterhout Formation) — [стр. 8].
+## 206 F02-A-06/NLOG_GS_PUB_F2-A6_DANA_FINAL_WELL_REPORT_CD.pdf 4/6 p321-384
+- T9 p352: Секция 12 1/4" (1331–2153 м MDRT, Innovert OBM): начальные PV/YP = 27 cP / 14 lb/100ft², конечные PV/YP = 67 cP / 48 lb/100ft² (пластическая вязкость превышала целевые лимиты, что снижало параметр Tau-0) — скважина F2-A-06 — [стр. 32, табл. 5; стр. 63].
+- T10 p340: Целевое назначение скважины — дренирование запасов на участке A04 месторождения Hanze («target reserves in the A04 area of the Hanze field») — скважина F2-A-06 — [стр. 20, 27]. ---
+## 207 F02-A-03/NLOG_GS_PUB_20080402-1-09_F02A03-S1-S2/PressvA3.xls 
+- T9 p: Справочные значения плотности флюидов (`BULK DENSITY`) — скважина F2-A3 — [лист «Data Lists», строки 1–7]:
+- T9 p: `Methane`: `626 µ sec / ft` — [лист «Data Lists», строка 22].
+- T9 p: Плотность породы (`FMN DEN` / `BULK DENSITY`) в таблице давлений — `0.41 g/cc` (55.05 M, `AIRGAP`), `1.04 g/cc` (97.75 M, `SEABED`), от `1.9083271742 g/cc` (100–160 M) до `2.2523024269 g/cc` (1060 M), `2.0784242762–2.1541410594 g/cc` (1280–1650 M), `2.12–2.2 g/cc` (1660–1710 M) — скважина F2-A3, интервал глубин TVD `55.05–1710 M
+## 211 F02-05/!!! NLOG_GS_PUB_F02-05 Lab progress report II WL9607 (1996-10).pdf 1/2 p1-30
+- T9 p4: **Минералогическая плотность породы (Grain Density)**: от $2.683$ до $2.712\text{ g/cm}^3$ по 26 образцам керна (индивидуальные значения приведены в таблице в п. 2) — скважина F 2-5, мел (Chalk), интервал 1408.80–1555.50 m [стр. 4, табл.].
+- T9 p57: **spec. gravity (15 °C)** (плотность при 15 °C) | `840.7 kg/m³` | Original sample & waterfree sample | скв. F 2-5, Chalk, DST # 2, обр. Pr. 107 | [стр. 27]
+- T9 p57: **°API** (плотность в градусах API) | `36.8 °API` | Waterfree sample | скв. F 2-5, Chalk, DST # 2, обр. Pr. 107 | [стр. 27]
+- T9 p57: **V 20** (вязкость при 20 °C) | `4.91 mPa s` | Waterfree sample | скв. F 2-5, Chalk, DST # 2, обр. Pr. 107 | [стр. 27]
+- T9 p57: **V 30** (вязкость при 30 °C) | `3.81 mPa s` | Waterfree sample | скв. F 2-5, Chalk, DST # 2, обр. Pr. 107 | [стр. 27]
+- T9 p57: **V 40** (вязкость при 40 °C) | `3.01 mPa s` | Waterfree sample | скв. F 2-5, Chalk, DST # 2, обр. Pr. 107 | [стр. 27]
+- T9 p57: **V 50** (вязкость при 50 °C) | `2.47 mPa s` | Waterfree sample | скв. F 2-5, Chalk, DST # 2, обр. Pr. 107 | [стр. 27]
+- T9 p57: **V 60** (вязкость при 60 °C) | `2.08 mPa s` | Waterfree sample | скв. F 2-5, Chalk, DST # 2, обр. Pr. 107 | [стр. 27]
+- T9 p57: **V 70** (вязкость при 70 °C) | `1.76 mPa s` | Waterfree sample | скв. F 2-5, Chalk, DST # 2, обр. Pr. 107 | [стр. 27]

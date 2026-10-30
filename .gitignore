@@ -1,0 +1,12 @@
+# Исходники (сканы, LAS/DLIS, книги, мануалы) — большие и/или под копирайтом, в репо не кладём
+Hanze_docs/
+books/
+Petrel_manuals/
+tNav_manuals/
+*.pdf
+*.rar
+
+__pycache__/
+*.pyc
+.DS_Store
+~$*.xlsx
